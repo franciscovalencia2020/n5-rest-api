@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+bin/
+obj/
